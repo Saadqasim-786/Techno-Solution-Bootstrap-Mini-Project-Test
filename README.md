@@ -17,8 +17,8 @@ This project is a simple yet professional web interface created as part of a Boo
 
 ## 🛠️ Technologies Used
 
-* HTML5
-* CSS3
+* HTML
+* CSS
 * Bootstrap
 
 ---
