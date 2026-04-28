@@ -41,7 +41,7 @@ Techno-Solution-Bootstrap-Mini-Project-Test/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/Techno-Solution-Bootstrap-Mini-Project-Test.git
+   git clone https://github.com/Saadqasim-786/Techno-Solution-Bootstrap-Mini-Project-Test.git
    ```
 
 2. Open the project folder:
@@ -65,9 +65,9 @@ Techno-Solution-Bootstrap-Mini-Project-Test/
 
 ---
 
-## 📸 Screenshots
 
-*(Add screenshots of your project here for better presentation)*
+
+
 
 ---
 
@@ -90,7 +90,7 @@ This project is open-source and available under the **MIT License**.
 
 ## 👨‍💻 Author
 
-* **Usman Ghani**
+* **Saad Qasim**
   Frontend Developer
 
 ---
